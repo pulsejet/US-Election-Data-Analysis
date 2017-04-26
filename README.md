@@ -5,3 +5,5 @@ Project-cum-presentation for **AE102 : Data Analysis and Interpretation**. Proba
 ## Requirements:
 
 Anaconda (latest version) with plotly installed.
+
+Exit poll results: https://www.nytimes.com/interactive/2016/11/08/us/politics/election-exit-polls.html?_r=0
